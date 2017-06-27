@@ -21,8 +21,8 @@ def enroll(request):
 		logging.info('Db connection error')
 		
 		
-	kairos_face.settings.app_id = '75a02728'
-	kairos_face.settings.app_key = 'b70898bd27458d0d1d2162ead6305920'
+	kairos_face.settings.app_id = 'Your APP ID'
+	kairos_face.settings.app_key = 'Your App key'
 	
 	if request.method == 'POST':
 			#POST goes here . is_ajax is must to capture ajax requests.
