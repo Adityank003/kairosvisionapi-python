@@ -4,6 +4,7 @@ Implementation of Employee Face recognition system in Python/Django using Kairos
 Requirements:
 
 Install kairos_face
+
 Get Api keys at https://developer.kairos.com/signup
 
 Create a table in Postgress DB with employee details
