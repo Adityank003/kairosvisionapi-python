@@ -1,2 +1,2 @@
 # kairosvisionapi-python
-Implementation of Face recognition system in python using Kairos API
+Implementation of Face recognition system in Python/Django using Kairos API
